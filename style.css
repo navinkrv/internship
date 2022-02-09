@@ -14,6 +14,10 @@ body{
 p{
     color: white;
 }
+form{
+background-color: #0C4CA3;
+    padding: 1px 0 39px;
+}
 .container{
     
    
@@ -30,7 +34,7 @@ img{
 .form{
     width: 30%;
     height: 100vh;
-    background-color: #0C4CA3;
+    
     padding: 0 10px;
 }
 .form-title{
